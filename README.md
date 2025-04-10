@@ -1,54 +1,122 @@
 # Cat Classifier
 
-A machine learning project to classify images of my two cats: Nova and Zidane ("Zizi").
+A machine learning project to classify images of my two cats, Nova and Zidane ("Zizi").
 
 ## Project Structure
 
 ```
 cat_classifier/
-├── data/               # Data directory
-│   ├── raw/           # Original, untagged images
-│   ├── train/         # Training dataset
-│   ├── val/           # Validation dataset
-│   └── test/          # Test dataset
-├── src/               # Source code
-├── models/            # Trained models
-├── notebooks/         # Jupyter notebooks for exploration
-└── config/            # Configuration files
+├── data/
+│   ├── raw/              # Original images
+│   ├── train/            # Training set
+│   │   ├── nova/         # Nova training images
+│   │   └── zizi/         # Zizi training images
+│   ├── val/              # Validation set
+│   │   ├── nova/         # Nova validation images
+│   │   └── zizi/         # Zizi validation images
+│   └── test/             # Test set
+│       ├── nova/         # Nova test images
+│       └── zizi/         # Zizi test images
+├── models/               # Saved model checkpoints
+├── results/              # Evaluation results and visualizations
+├── src/
+│   ├── tag_images.py     # Image tagging helper script
+│   ├── organize_dataset.py # Dataset organization script
+│   ├── train.py          # Model training script
+│   └── test_model.py     # Model testing script
+└── requirements.txt      # Project dependencies
 ```
 
-## Setup Instructions
+## Setup
 
-1. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Data Organization
+2. Place your cat images in the `data/raw` directory.
 
-1. Place all original cat images in `data/raw/`
-2. Run the data preparation script to organize images into train/val/test sets
-3. Images will be automatically tagged based on their filenames or metadata
+## Usage
 
-## Training
+### 1. Tag Images
+Use the tagging script to label your cat images:
+```bash
+python src/tag_images.py
+```
+Controls:
+- `z`: Tag as Zizi
+- `n`: Tag as Nova
+- `s`: Skip image
+- `c`: Crop image (for images with both cats)
+- `q`: Quit tagging
 
-To train the model:
+### 2. Organize Dataset
+After tagging, organize the images into training, validation, and test sets:
+```bash
+python src/organize_dataset.py
+```
+This will:
+- Split images into 70% training, 15% validation, and 15% test sets
+- Create the necessary directory structure
+- Save dataset information to `data/dataset_info.json`
+
+### 3. Train Model
+Train the cat classification model:
 ```bash
 python src/train.py
 ```
+The script will:
+- Use a pre-trained ResNet18 model
+- Fine-tune for cat classification
+- Save the best model to `models/best_model.pth`
+- Implement early stopping to prevent overfitting
 
-## Requirements
+### 4. Test Model
+Evaluate the model's performance:
+```bash
+python src/test_model.py
+```
+This will:
+- Generate a classification report
+- Create a confusion matrix
+- Show sample predictions with confidence scores
+- Save visualizations to the `results` directory
 
-- Python 3.8+
-- PyTorch
-- torchvision
-- pandas
-- numpy
-- matplotlib
-- jupyter (for notebooks) 
+## Current Performance
+
+The model achieves:
+- Overall accuracy: 69%
+- Balanced performance between classes:
+  - Nova: 71% precision, 67% recall
+  - Zizi: 67% precision, 71% recall
+
+## Future Improvements
+
+1. Data Augmentation:
+   - Add more training data
+   - Apply image transformations
+   - Include more variations in lighting and angles
+
+2. Model Architecture:
+   - Try different pre-trained models
+   - Adjust learning rate and training parameters
+   - Implement regularization techniques
+
+3. Training Process:
+   - Increase training epochs
+   - Add learning rate scheduling
+   - Implement more sophisticated data augmentation
+
+## Dependencies
+
+- torch>=2.0.0
+- torchvision>=0.15.0
+- numpy>=1.21.0
+- pandas>=1.3.0
+- matplotlib>=3.4.0
+- jupyter>=1.0.0
+- pillow>=8.3.0
+- scikit-learn>=0.24.0
+- tqdm>=4.62.0
+- opencv-python>=4.5.0
+- seaborn>=0.12.0 

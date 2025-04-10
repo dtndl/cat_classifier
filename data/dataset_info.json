@@ -1,0 +1,17 @@
+{
+  "total_images": 230,
+  "splits": {
+    "train": {
+      "zizi": 78,
+      "nova": 82
+    },
+    "val": {
+      "zizi": 17,
+      "nova": 18
+    },
+    "test": {
+      "zizi": 17,
+      "nova": 18
+    }
+  }
+}

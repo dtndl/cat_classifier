@@ -1,0 +1,1434 @@
+{
+  "data/raw/IMG_6317.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:30:41.367247"
+  },
+  "data/raw/IMG_3521.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:30:43.543796"
+  },
+  "data/raw/IMG_3535.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:30:46.946745"
+  },
+  "data/raw/IMG_1691.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:30:49.276917"
+  },
+  "data/raw/IMG_4058.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:31:04.677131"
+  },
+  "data/raw/IMG_1726.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:07.633432"
+  },
+  "data/raw/IMG_0809.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:31:09.664808"
+  },
+  "data/raw/IMG_4306.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:12.640093"
+  },
+  "data/raw/IMG_4312.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:14.364189"
+  },
+  "data/raw/IMG_1242.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:16.118486"
+  },
+  "data/raw/IMG_1257.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:31:18.173465"
+  },
+  "data/raw/IMG_4475.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:20.138905"
+  },
+  "data/raw/IMG_7829.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:21.869928"
+  },
+  "data/raw/IMG_0808.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:24.808299"
+  },
+  "data/raw/IMG_2548.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:26.981612"
+  },
+  "data/raw/IMG_1727.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:28.663029"
+  },
+  "data/raw/IMG_3044.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:31:31.991325"
+  },
+  "data/raw/IMG_5435.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:33.441718"
+  },
+  "data/raw/IMG_4703.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:34.836098"
+  },
+  "data/raw/IMG_7593.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:31:36.689539"
+  },
+  "data/raw/IMG_1690.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:31:40.027140"
+  },
+  "data/raw/IMG_3534.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:41.654998"
+  },
+  "data/raw/IMG_0940.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:43.151253"
+  },
+  "data/raw/IMG_0942.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:44.262276"
+  },
+  "data/raw/IMG_3522.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:45.857870"
+  },
+  "data/raw/IMG_1335.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:49.210681"
+  },
+  "data/raw/IMG_4107.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:52.559841"
+  },
+  "data/raw/IMG_1296.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:54.762666"
+  },
+  "data/raw/IMG_4311.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:56.411984"
+  },
+  "data/raw/IMG_1255.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:31:57.671462"
+  },
+  "data/raw/IMG_4339.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:31:59.063826"
+  },
+  "data/raw/IMG_1241.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:32:00.369725"
+  },
+  "data/raw/IMG_0639.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:32:01.825939"
+  },
+  "data/raw/IMG_1042.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:05.937956"
+  },
+  "data/raw/IMG_4106.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:17.769514"
+  },
+  "data/raw/IMG_5436.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:32:21.412157"
+  },
+  "data/raw/IMG_3084.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:22.921591"
+  },
+  "data/raw/IMG_1693.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:24.216748"
+  },
+  "data/raw/IMG_4270.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:29.052465"
+  },
+  "data/raw/IMG_3533.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:30.313805"
+  },
+  "data/raw/IMG_0990.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:31.768077"
+  },
+  "data/raw/IMG_7741.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:33.190599"
+  },
+  "data/raw/IMG_3916.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:34.348459"
+  },
+  "data/raw/IMG_1898.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:36.101356"
+  },
+  "data/raw/IMG_1132.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:32:37.373363"
+  },
+  "data/raw/IMG_5432.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:32:38.744621"
+  },
+  "data/raw/IMG_2407.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:40.184019"
+  },
+  "data/raw/68223114558__412D8FF4-F735-4465-ADD0-B35363028570.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:43.591716"
+  },
+  "data/raw/IMG_4314.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:45.326545"
+  },
+  "data/raw/IMG_0614.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:47.167872"
+  },
+  "data/raw/IMG_0629.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:32:50.116503"
+  },
+  "data/raw/IMG_1292.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:32:51.788631"
+  },
+  "data/raw/IMG_2599.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:54.478226"
+  },
+  "data/raw/IMG_1133.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:32:58.737932"
+  },
+  "data/raw/IMG_6648.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:00.248188"
+  },
+  "data/raw/IMG_2162.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:05.715527"
+  },
+  "data/raw/IMG_0761.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:07.244898"
+  },
+  "data/raw/IMG_0985.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:08.576870"
+  },
+  "data/raw/IMG_3256.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:10.222284"
+  },
+  "data/raw/IMG_3518.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:33:11.845607"
+  },
+  "data/raw/IMG_0763.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:13.213524"
+  },
+  "data/raw/IMG_6689.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:14.397785"
+  },
+  "data/raw/IMG_1125.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:15.653721"
+  },
+  "data/raw/IMG_0830.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:16.796172"
+  },
+  "data/raw/IMG_1290.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:21.174161"
+  },
+  "data/raw/IMG_0617.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:42.080634"
+  },
+  "data/raw/IMG_2766.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:43.527949"
+  },
+  "data/raw/IMG_0616.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:33:44.667495"
+  },
+  "data/raw/IMG_2767.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:45.868186"
+  },
+  "data/raw/IMG_0831.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:33:47.291257"
+  },
+  "data/raw/IMG_1291.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:48.778483"
+  },
+  "data/raw/IMG_6059.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:33:50.218386"
+  },
+  "data/raw/IMG_3069.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:51.492526"
+  },
+  "data/raw/IMG_7596.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:53.451568"
+  },
+  "data/raw/IMG_3096.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:54.742844"
+  },
+  "data/raw/IMG_3082.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:55.605444"
+  },
+  "data/raw/IMG_0986.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:33:56.929833"
+  },
+  "data/raw/IMG_3257.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:33:58.281492"
+  },
+  "data/raw/68075401579__A9819EA6-D7C2-429E-BD1D-E29EDAFE5239.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:00.598973"
+  },
+  "data/raw/IMG_2112.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:04.258995"
+  },
+  "data/raw/IMG_1355.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:05.907152"
+  },
+  "data/raw/IMG_1180.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:07.535434"
+  },
+  "data/raw/IMG_2462.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:09.543841"
+  },
+  "data/raw/IMG_5443.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:10.827246"
+  },
+  "data/raw/IMG_2072.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:12.636984"
+  },
+  "data/raw/IMG_4417.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:15.279039"
+  },
+  "data/raw/IMG_6200.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:19.357542"
+  },
+  "data/raw/IMG_1221.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:20.696206"
+  },
+  "data/raw/68060918984__57FFD763-B653-4517-9E27-26D172E9EA6B.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:23.714876"
+  },
+  "data/raw/IMG_3344.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:25.220421"
+  },
+  "data/raw/IMG_3345.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:26.179706"
+  },
+  "data/raw/IMG_2073.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:27.456677"
+  },
+  "data/raw/IMG_1750.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:28.865683"
+  },
+  "data/raw/IMG_1778.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:29.964993"
+  },
+  "data/raw/IMG_6163.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:31.274703"
+  },
+  "data/raw/IMG_2463.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:32.886370"
+  },
+  "data/raw/IMG_1803.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:35.330984"
+  },
+  "data/raw/IMG_0738.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:37.358646"
+  },
+  "data/raw/IMG_2113.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:38.901578"
+  },
+  "data/raw/IMG_0810 Copy Copy.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:39.835049"
+  },
+  "data/raw/IMG_2107.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:42.186850"
+  },
+  "data/raw/IMG_1397.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:46.047734"
+  },
+  "data/raw/IMG_1395.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:48.749045"
+  },
+  "data/raw/IMG_2111.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:50.051713"
+  },
+  "data/raw/68344580504__ECF3C2AC-C498-4B0A-8DC9-2FD458F4EB52.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:51.406070"
+  },
+  "data/raw/IMG_6175.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:34:53.184925"
+  },
+  "data/raw/IMG_2461.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:54.690761"
+  },
+  "data/raw/IMG_2298.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:56.113090"
+  },
+  "data/raw/IMG_1578.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:34:57.782880"
+  },
+  "data/raw/IMG_2717.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:34:58.592504"
+  },
+  "data/raw/IMG_6559.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:01.743812"
+  },
+  "data/raw/IMG_6558.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:02.792967"
+  },
+  "data/raw/IMG_3622.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:04.472093"
+  },
+  "data/raw/IMG_2299.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:05.293493"
+  },
+  "data/raw/IMG_4039.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:06.264602"
+  },
+  "data/raw/IMG_1169.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:07.138231"
+  },
+  "data/raw/IMG_6174.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:35:08.486659"
+  },
+  "data/raw/68068265873__E8CD8371-BC5A-4308-ABFA-39B36E3F909F.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:10.232537"
+  },
+  "data/raw/IMG_2138.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:11.744251"
+  },
+  "data/raw/IMG_2110.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:12.778240"
+  },
+  "data/raw/IMG_1394.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:14.056079"
+  },
+  "data/raw/IMG_0924.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:35:15.505076"
+  },
+  "data/raw/IMG_2841.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:16.781946"
+  },
+  "data/raw/IMG_6399.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:17.611440"
+  },
+  "data/raw/IMG_1347.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:27.165803"
+  },
+  "data/raw/IMG_1353.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:28.134573"
+  },
+  "data/raw/IMG_2114.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:29.509615"
+  },
+  "data/raw/IMG_6400.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:30.628217"
+  },
+  "data/raw/IMG_1804.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:33.085684"
+  },
+  "data/raw/IMG_1637.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:34.531727"
+  },
+  "data/raw/IMG_2458.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:35:36.210757"
+  },
+  "data/raw/IMG_6170.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:38.854983"
+  },
+  "data/raw/IMG_3342.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:35:40.251781"
+  },
+  "data/raw/IMG_1233.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:42.256394"
+  },
+  "data/raw/IMG_0677.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:35:43.487495"
+  },
+  "data/raw/IMG_1569.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:45.034383"
+  },
+  "data/raw/IMG_4363.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:35:46.204808"
+  },
+  "data/raw/IMG_4362.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:35:53.236986"
+  },
+  "data/raw/IMG_3343.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:35:54.521203"
+  },
+  "data/raw/IMG_1597.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:00.539491"
+  },
+  "data/raw/IMG_6039.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:02.877114"
+  },
+  "data/raw/IMG_2465.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:04.089675"
+  },
+  "data/raw/IMG_7509.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:05.328232"
+  },
+  "data/raw/IMG_4028.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:06.827255"
+  },
+  "data/raw/67797632951__E8FED12F-1BC4-4591-8808-505BB634269C.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:08.034935"
+  },
+  "data/raw/IMG_1805.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:09.257639"
+  },
+  "data/raw/IMG_1193.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:10.338907"
+  },
+  "data/raw/IMG_1187.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:11.788695"
+  },
+  "data/raw/IMG_6401.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:13.112205"
+  },
+  "data/raw/IMG_0716.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:22.904229"
+  },
+  "data/raw/IMG_1408.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:24.484743"
+  },
+  "data/raw/IMG_2115.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:26.683778"
+  },
+  "data/raw/IMG_1346.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:34.544273"
+  },
+  "data/raw/IMG_6398.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:35.914489"
+  },
+  "data/raw/IMG_0933.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:37.412968"
+  },
+  "data/raw/IMG_1350.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:38.891674"
+  },
+  "data/raw/IMG_1344.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:40.730332"
+  },
+  "data/raw/IMG_2103.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:42.135934"
+  },
+  "data/raw/IMG_2117.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:43.500914"
+  },
+  "data/raw/IMG_6198.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:44.623153"
+  },
+  "data/raw/IMG_5446.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:45.961240"
+  },
+  "data/raw/IMG_2467.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:47.146988"
+  },
+  "data/raw/IMG_7480.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:49.127279"
+  },
+  "data/raw/IMG_1224.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:50.732652"
+  },
+  "data/raw/IMG_0648.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:53.234878"
+  },
+  "data/raw/IMG_3341.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:54.770637"
+  },
+  "data/raw/IMG_0660.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:36:56.493646"
+  },
+  "data/raw/IMG_6562.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:36:58.113882"
+  },
+  "data/raw/IMG_4361.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:36:59.478202"
+  },
+  "data/raw/IMG_2738.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:37:00.781222"
+  },
+  "data/raw/IMG_3340.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:37:02.170695"
+  },
+  "data/raw/IMG_0649.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:37:03.599027"
+  },
+  "data/raw/IMG_1769.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:37:12.046310"
+  },
+  "data/raw/IMG_6166.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:37:13.499999"
+  },
+  "data/raw/IMG_2300.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:15.077708"
+  },
+  "data/raw/IMG_5447.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:15.946394"
+  },
+  "data/raw/IMG_6199.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:37:17.295949"
+  },
+  "data/raw/IMG_1379.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:20.834384"
+  },
+  "data/raw/IMG_2116.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:37:22.077896"
+  },
+  "data/raw/IMG_2102.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:37:23.663682"
+  },
+  "data/raw/IMG_6402.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:24.925916"
+  },
+  "data/raw/IMG_5889.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:37:27.596243"
+  },
+  "data/raw/IMG_0932.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:29.530899"
+  },
+  "data/raw/IMG_4230.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:37:31.264060"
+  },
+  "data/raw/IMG_1406.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:37:32.938996"
+  },
+  "data/raw/IMG_6625.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:37:40.031577"
+  },
+  "data/raw/IMG_4768.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:41.131322"
+  },
+  "data/raw/IMG_6619.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:54.339474"
+  },
+  "data/raw/IMG_7507.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:37:56.853882"
+  },
+  "data/raw/IMG_2251.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:37:57.968120"
+  },
+  "data/raw/IMG_1599.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:00.972428"
+  },
+  "data/raw/IMG_4344.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:02.320755"
+  },
+  "data/raw/IMG_0644.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:03.909992"
+  },
+  "data/raw/IMG_0650.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:06.682806"
+  },
+  "data/raw/68188517915__C8CBCED4-E5C8-4E16-B46C-899B3119FBB1.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:08.826498"
+  },
+  "data/raw/IMG_0678.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:09.916441"
+  },
+  "data/raw/IMG_0651.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:11.276277"
+  },
+  "data/raw/IMG_1229.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:13.674270"
+  },
+  "data/raw/IMG_4345.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:14.927573"
+  },
+  "data/raw/IMG_4147.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:17.397802"
+  },
+  "data/raw/IMG_7512.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:18.848908"
+  },
+  "data/raw/IMG_7506.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:21.253691"
+  },
+  "data/raw/IMG_4782.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:22.420438"
+  },
+  "data/raw/IMG_1188.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:23.413257"
+  },
+  "data/raw/IMG_0719.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:24.503815"
+  },
+  "data/raw/IMG_1361.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:25.830960"
+  },
+  "data/raw/IMG_4231.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:26.890897"
+  },
+  "data/raw/IMG_1349.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:28.800980"
+  },
+  "data/raw/IMG_0731.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:29.723095"
+  },
+  "data/raw/IMG_6397.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:30.864815"
+  },
+  "data/raw/IMG_0914.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:33.625917"
+  },
+  "data/raw/IMG_0733.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:35.183963"
+  },
+  "data/raw/IMG_1405.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:37.962534"
+  },
+  "data/raw/IMG_6626.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:39.162951"
+  },
+  "data/raw/IMG_1607.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:41.231978"
+  },
+  "data/raw/IMG_3776.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:49.914844"
+  },
+  "data/raw/IMG_7510.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:52.956285"
+  },
+  "data/raw/68144776070__1E102DDA-9A8A-47B0-A250-C0A5E58B435B.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:38:54.315260"
+  },
+  "data/raw/IMG_1767.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:55.408562"
+  },
+  "data/raw/IMG_1565.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:38:57.206525"
+  },
+  "data/raw/IMG_0646.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:38:58.995426"
+  },
+  "data/raw/68100762727__F175F5CB-D221-4257-AED6-880626078009.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:00.343044"
+  },
+  "data/raw/IMG_1766.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:01.620561"
+  },
+  "data/raw/IMG_1772.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:08.727815"
+  },
+  "data/raw/IMG_1799.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:11.754068"
+  },
+  "data/raw/IMG_1606.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:13.613826"
+  },
+  "data/raw/IMG_7511.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:22.155246"
+  },
+  "data/raw/IMG_6627.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:24.374443"
+  },
+  "data/raw/IMG_5448.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:25.495870"
+  },
+  "data/raw/IMG_6196.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:26.408968"
+  },
+  "data/raw/IMG_1410.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:27.605164"
+  },
+  "data/raw/IMG_0732.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:29.034691"
+  },
+  "data/raw/IMG_0929.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:30.070904"
+  },
+  "data/raw/IMG_0722.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:33.870427"
+  },
+  "data/raw/IMG_2337.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:35.782904"
+  },
+  "data/raw/IMG_4140.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:37.224572"
+  },
+  "data/raw/IMG_0810 Copy.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:38.699052"
+  },
+  "data/raw/IMG_1212.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:40.302852"
+  },
+  "data/raw/IMG_0643.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:42.235156"
+  },
+  "data/raw/IMG_2068.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:43.363125"
+  },
+  "data/raw/IMG_1575.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:44.834578"
+  },
+  "data/raw/IMG_4141.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:46.090082"
+  },
+  "data/raw/IMG_3821.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:47.192407"
+  },
+  "data/raw/68343909587__5AFD82BA-C36C-41C9-835C-740E43861E20.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:48.352885"
+  },
+  "data/raw/IMG_6178.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:49.996800"
+  },
+  "data/raw/IMG_7500.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:51.137171"
+  },
+  "data/raw/IMG_6187.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:39:54.416846"
+  },
+  "data/raw/IMG_0938.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:39:56.220509"
+  },
+  "data/raw/68061884083__EC49426C-B3B8-484A-800E-59CFFCA464CB.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:39:59.692822"
+  },
+  "data/raw/IMG_1417.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:01.035253"
+  },
+  "data/raw/IMG_1403.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:05.292327"
+  },
+  "data/raw/IMG_0735.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:06.583833"
+  },
+  "data/raw/IMG_6807.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:09.436229"
+  },
+  "data/raw/IMG_1826.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:11.701302"
+  },
+  "data/raw/IMG_5467.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:13.647212"
+  },
+  "data/raw/IMG_6620.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:14.836297"
+  },
+  "data/raw/IMG_3162.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:16.006867"
+  },
+  "data/raw/IMG_6998.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:17.079870"
+  },
+  "data/raw/68169780342__683B2330-6691-4238-82CA-A9ADC5E7A4B3.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:18.252628"
+  },
+  "data/raw/IMG_2718.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:19.566638"
+  },
+  "data/raw/IMG_1577.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:20.850629"
+  },
+  "data/raw/IMG_0641.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:30.058626"
+  },
+  "data/raw/IMG_4341.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:32.601809"
+  },
+  "data/raw/IMG_6543.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:33.778129"
+  },
+  "data/raw/IMG_4340.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:36.298999"
+  },
+  "data/raw/IMG_1576.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:41.784805"
+  },
+  "data/raw/IMG_4142.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:43.077442"
+  },
+  "data/raw/68144774770__6D88A750-2739-4027-8CE3-0F1444D35BC8.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:44.140271"
+  },
+  "data/raw/IMG_1827.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:45.396629"
+  },
+  "data/raw/IMG_2889.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:46.482352"
+  },
+  "data/raw/IMG_0720.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:47.799869"
+  },
+  "data/raw/IMG_0913.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:40:50.431971"
+  },
+  "data/raw/IMG_0960.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:51.736113"
+  },
+  "data/raw/IMG_1897.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:40:56.412206"
+  },
+  "data/raw/IMG_2352.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:57.644268"
+  },
+  "data/raw/IMG_6040.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:58.467803"
+  },
+  "data/raw/IMG_1049.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:40:59.331999"
+  },
+  "data/raw/IMG_1075.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:00.472493"
+  },
+  "data/raw/IMG_3662.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:01.915686"
+  },
+  "data/raw/IMG_0814.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:02.906993"
+  },
+  "data/raw/IMG_0627.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:04.350620"
+  },
+  "data/raw/IMG_1263.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:05.905447"
+  },
+  "data/raw/IMG_1262.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:07.088919"
+  },
+  "data/raw/IMG_0626.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:08.481338"
+  },
+  "data/raw/IMG_4326.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:09.681345"
+  },
+  "data/raw/IMG_1289.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:11.790256"
+  },
+  "data/raw/IMG_1706.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:13.002338"
+  },
+  "data/raw/IMG_6647.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:14.391117"
+  },
+  "data/raw/IMG_1896.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:15.395422"
+  },
+  "data/raw/IMG_4087.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:17.018912"
+  },
+  "data/raw/IMG_6690.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:18.522840"
+  },
+  "data/raw/1A3F77B5-DCBA-435B-BA12-3E0907DD316F.jpg": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:19.679072"
+  },
+  "data/raw/IMG_3661.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:22.391983"
+  },
+  "data/raw/IMG_2219.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:23.244434"
+  },
+  "data/raw/IMG_3339.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:24.254546"
+  },
+  "data/raw/IMG_0630.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:25.329865"
+  },
+  "data/raw/IMG_4324.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:26.457407"
+  },
+  "data/raw/IMG_0624.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:27.343887"
+  },
+  "data/raw/IMG_1260.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:28.120127"
+  },
+  "data/raw/IMG_2768.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:29.361127"
+  },
+  "data/raw/IMG_0625.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:30.301496"
+  },
+  "data/raw/IMG_0631.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:31.794564"
+  },
+  "data/raw/IMG_3338.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:33.223499"
+  },
+  "data/raw/IMG_4494.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:34.447577"
+  },
+  "data/raw/IMG_7823.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:35.384841"
+  },
+  "data/raw/IMG_1895.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:36.459302"
+  },
+  "data/raw/IMG_6687.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:37.360113"
+  },
+  "data/raw/IMG_1301.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:38.350438"
+  },
+  "data/raw/IMG_3258.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:39.581968"
+  },
+  "data/raw/IMG_0989.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:40.830408"
+  },
+  "data/raw/IMG_0972.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:41.833910"
+  },
+  "data/raw/IMG_2195.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:42.651286"
+  },
+  "data/raw/IMG_4269.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:44.820087"
+  },
+  "data/raw/IMG_0755.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:51.700509"
+  },
+  "data/raw/IMG_3089.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:41:52.759532"
+  },
+  "data/raw/IMG_7562.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:53.975101"
+  },
+  "data/raw/67919609282__3929EAB1-EE00-47F6-9AA3-E89AA551A364.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:54.935076"
+  },
+  "data/raw/IMG_4057.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:55.706368"
+  },
+  "data/raw/IMG_2340.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:41:56.381744"
+  },
+  "data/raw/IMG_3102.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:41:57.760079"
+  },
+  "data/raw/IMG_1067.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:00.114910"
+  },
+  "data/raw/IMG_5567.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:01.751303"
+  },
+  "data/raw/IMG_6046.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:03.566882"
+  },
+  "data/raw/IMG_4490.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:04.819921"
+  },
+  "data/raw/IMG_7833.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:07.233207"
+  },
+  "data/raw/IMG_4321.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:08.302497"
+  },
+  "data/raw/IMG_1259.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:11.364451"
+  },
+  "data/raw/IMG_5758.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:13.492395"
+  },
+  "data/raw/IMG_7832.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:15.832009"
+  },
+  "data/raw/IMG_4491.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:17.101228"
+  },
+  "data/raw/IMG_0807.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:18.265135"
+  },
+  "data/raw/IMG_4888.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:19.274183"
+  },
+  "data/raw/IMG_2547.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:20.060470"
+  },
+  "data/raw/IMG_4056.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:21.695885"
+  },
+  "data/raw/IMG_6127.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:22.494654"
+  },
+  "data/raw/IMG_2341.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:23.750046"
+  },
+  "data/raw/IMG_4042.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:24.764613"
+  },
+  "data/raw/IMG_4268.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:25.575723"
+  },
+  "data/raw/IMG_1304.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:26.637238"
+  },
+  "data/raw/IMG_0971.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:30.763833"
+  },
+  "data/raw/IMG_0959.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:32.066724"
+  },
+  "data/raw/IMG_3934.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:33.484027"
+  },
+  "data/raw/IMG_4040.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:34.275151"
+  },
+  "data/raw/IMG_6045.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:35.048334"
+  },
+  "data/raw/IMG_7830.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:36.460541"
+  },
+  "data/raw/IMG_4322.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:37.334222"
+  },
+  "data/raw/IMG_0622.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:38.376085"
+  },
+  "data/raw/IMG_0636.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:39.815214"
+  },
+  "data/raw/IMG_4323.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:41.016529"
+  },
+  "data/raw/IMG_0623.JPG": {
+    "tag": "zizi",
+    "timestamp": "2025-04-10T22:42:42.052107"
+  },
+  "data/raw/IMG_7825.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:43.003517"
+  },
+  "data/raw/IMG_0810.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:44.016274"
+  },
+  "data/raw/IMG_7819.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:45.209721"
+  },
+  "data/raw/IMG_4041.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:46.671707"
+  },
+  "data/raw/IMG_2342.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:48.193089"
+  },
+  "data/raw/IMG_1105.JPG": {
+    "tag": "nova",
+    "timestamp": "2025-04-10T22:42:49.405638"
+  },
+  "data/raw/IMG_4096.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:50.896203"
+  },
+  "data/raw/IMG_0970.JPG": {
+    "tag": "skip",
+    "timestamp": "2025-04-10T22:42:51.921416"
+  }
+}
