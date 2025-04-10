@@ -2,6 +2,12 @@
 
 A machine learning project to classify images of my two cats, Nova and Zidane ("Zizi").
 
+## Project Disclaimer
+
+This project was developed with the support of Cursor and serves as a learning opportunity for me to refresh my programming and machine learning skills after many years. The project documentation and code structure are designed to be educational and may include explanations of basic concepts as I re-learn them.
+
+As someone who graduated in 2015 (back when we had to debug our code the old-fashioned way - by staring at it for hours), I figured I'd see what these AI coding assistants were all about. Turns out they're not terrible. It's kind of like having a TA who's always available and doesn't mind explaining things multiple times. While I'm still doing the actual work, it's been useful for getting back up to speed with modern ML concepts. At least now when I'm stuck, I can ask something that won't roll its eyes at me.
+
 ## Project Structure
 
 ```
